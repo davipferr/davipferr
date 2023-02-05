@@ -23,7 +23,7 @@ Full Stack Developer
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### Contact
-[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropferr/)
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davipferr/)
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=pferreirafabricio&count_private=true&show_icons=true&theme=dark" /> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davipferr&langs_count=4&hide=hlsl,shaderlab,jupyter%20notebook,css,html,tex&theme=dark" />
