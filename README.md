@@ -1,4 +1,4 @@
-# Hi, I'm Pedro
+# Hi, I'm Davi
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
 Full Stack Developer
 <!--<p><img src="https://komarev.com/ghpvc/?username=pferreirafabricio&color=grey&style=flat-square"></p>-->
@@ -26,9 +26,9 @@ Full Stack Developer
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropferr/)
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=pferreirafabricio&count_private=true&show_icons=true&theme=dark" /> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropferr&langs_count=4&hide=hlsl,shaderlab,jupyter%20notebook,css,html,tex&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davipferr&langs_count=4&hide=hlsl,shaderlab,jupyter%20notebook,css,html,tex&theme=dark" />
 
-![Metrics](https://metrics.lecoq.io/pedropferr)
+![Metrics](https://metrics.lecoq.io/davipferr)
 
 
 
