@@ -28,7 +28,4 @@ Full Stack Developer
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=pferreirafabricio&count_private=true&show_icons=true&theme=dark" /> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davipferr&langs_count=4&hide=hlsl,shaderlab,jupyter%20notebook,css,html,tex&theme=dark" />
 
-![Metrics](https://metrics.lecoq.io/davipferr)
-
-
-
+![Metrics](/github-metrics.svg)
